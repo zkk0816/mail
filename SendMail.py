@@ -18,7 +18,7 @@ def read_csv(path, username):
 
 
 def send_email(receivers):
-    sender_address = "zhuk12@chinaunicom.cn"
+    sender_address = "XXX@chinaunicom.cn"
     password = "XXXXX"
 
     for receiver in receivers:
