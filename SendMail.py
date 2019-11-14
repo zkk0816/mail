@@ -19,7 +19,7 @@ def read_csv(path, username):
 
 def send_email(receivers):
     sender_address = "zhuk12@chinaunicom.cn"
-    password = "Zkk29638132"
+    password = "XXXXX"
 
     for receiver in receivers:
         message = MIMEText('Python 邮件发送测试...', 'plain', 'utf-8')
